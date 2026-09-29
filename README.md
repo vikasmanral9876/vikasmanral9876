@@ -31,7 +31,11 @@ Git, GitHub, VS Code
 
 ## 📌 Featured Projects
 
-### Sputt – AI Event Organizer SaaS
+### HirePilot – AI Job Preparation Platform
+
+An AI-powered job preparation platform with personalized interview preparation, job description analysis, skill-gap detection, and ATS-friendly tailored resume generation.
+
+### Spott – AI Event Organizer SaaS
 
 A full-stack event management platform with AI-powered features, authentication, and database integration.
 
